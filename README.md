@@ -27,4 +27,11 @@
 
 :::::::::::::::::::::::::::::WEB_Integration:::::::::::::::::::::::::::::
 
-https://naveenkumar.s3-web.che01.cloud-object-storage.appdomain.cloud/
+Website link(Livedemo):https://naveenkumar.s3-web.che01.cloud-object-storage.appdomain.cloud/
+![Screenshot (44)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/2113bae2-f09d-48dd-972a-760c9e162c39)
+![Screenshot (43)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/2f551464-cdfd-4d65-9430-3736370eae9b)
+)![Screenshot (42)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/20e08703-38c0-4f5c-96ff-c26a66520882)
+![Screenshot (45)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/2993277d-9e6a-4d84-9efa-01921f57e2d2)
+![Screenshot (40)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/f86429d6-0ea8-4e99-8b75-65fc825d4d2c)
+![Screenshot (46)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/6b117be2-7836-4c92-99a1-03b1a288baab)
+![Screenshot (41)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/0de767f0-839a-4f96-8860-67752f01231d)
