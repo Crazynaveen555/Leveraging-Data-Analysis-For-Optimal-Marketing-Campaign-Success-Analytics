@@ -25,13 +25,18 @@
 ![Screenshot (36)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/742917b4-f823-4946-8b7e-73c1fc1a905a)
 ![Screenshot (35)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/1c8144b6-3d58-441f-a31f-dbc75dd4d8ca)
 
+
+
 :::::::::::::::::::::::::::::WEB_Integration:::::::::::::::::::::::::::::
 
 Website link(Livedemo):https://naveenkumar.s3-web.che01.cloud-object-storage.appdomain.cloud/
-![Screenshot (44)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/2113bae2-f09d-48dd-972a-760c9e162c39)
-![Screenshot (43)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/2f551464-cdfd-4d65-9430-3736370eae9b)
-)![Screenshot (42)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/20e08703-38c0-4f5c-96ff-c26a66520882)
-![Screenshot (45)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/2993277d-9e6a-4d84-9efa-01921f57e2d2)
-![Screenshot (40)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/f86429d6-0ea8-4e99-8b75-65fc825d4d2c)
-![Screenshot (46)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/6b117be2-7836-4c92-99a1-03b1a288baab)
-![Screenshot (41)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/0de767f0-839a-4f96-8860-67752f01231d)
+
+
+
+![Screenshot (46)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/12938db9-2d40-4648-968a-2e97a6573698)
+![Screenshot (45)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/6962c5aa-2786-45b0-b854-1e41e8f4aaa7)
+![Screenshot (44)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/6ef143ad-2ae1-4d02-b8d0-6a190955034a)
+![Screenshot (43)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/ec3800a2-38cd-486a-9517-f149cda1e9e8)
+![Screenshot (42)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/8311bb31-b146-4114-860e-1d06368e2529)
+![Screenshot (40)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/f3378584-5f24-4169-8907-3da11f013a45)
+
