@@ -1,5 +1,8 @@
 # Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics
-
+:::::::::::::::::::::::::::::WEB_Integration:::::::::::::::::::::::::::::::
+WEBSITE Link: https://naveenkumar.s3-web.che01.cloud-object-storage.appdomain.cloud/
+:::::::::::::::::::::::::::::Demo_video::::::::::::::::::::::::::::::::::::
+DEMO video link: https://drive.google.com/file/d/11GZ0BuyX77EpItcGdNA2-MMjv-w53Pu5/view?usp=drivesdk
 :::::::::::::::::::::::::::::Dashboard:::::::::::::::::::::::::::::::::::::
 
 ![Screenshot (28)](https://github.com/Crazynaveen555/Leveraging-Data-Analysis-For-Optimal-Marketing-Campaign-Success-Analytics/assets/125992766/94abe409-0cc6-4fd4-af28-cc5aec3e25ed)
